@@ -1,6 +1,8 @@
 # --- LANGUAGE CLASSIFICATION FIXES ---
 *.ipynb linguist-language=Python
 *.py linguist-language=Python
+notebooks/* linguist-detectable=false
+
 
 # # --- EXCLUDE NON-CODE FILES ---
 # data/* linguist-detectable=false
