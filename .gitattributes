@@ -1,4 +1,4 @@
-# LANGUAGE CLASSIFICATION FIXES 
+# --- LANGUAGE CLASSIFICATION FIXES ---
 *.ipynb linguist-language=Python
 *.py linguist-language=Python
 **/*.ipynb linguist-language=Python
